@@ -31,7 +31,7 @@ const ContactPage = () => {
           />
           <ContactItem
             icon={location}
-            text={"328 harbor gulf court, North Las Vegas, Nevada"}
+            text={"North Las Vegas, Nevada"}
             title={"Location"}
           />
           <ContactItem
