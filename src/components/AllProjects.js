@@ -10,7 +10,6 @@ import agumentive from "../images/Augmentive.png";
 import gopuff from "../images/Gopuff.png";
 import trycavir from "../images/Trycavir.png";
 import kubota from "../images/Kubota.png";
-import oncyber from "../images/Oncyber.png";
 import deaslim from "../images/3Deaslim.png";
 import persepolis from "../images/persepolis.png";
 import mortrack from "../images/mortrack.png";
@@ -27,7 +26,7 @@ const projects = [
     image: spacerunners,
     title: "NFT metaverse",
     description:
-      "Website made with React and Tailwind CSS, and backed by Express",
+      "Website made with React and Tailwind CSS, and backed by NestJS",
   },
   {
     id: 2,
@@ -53,7 +52,7 @@ const projects = [
     image: yesports,
     title: "NFT Marketplace, Metaverse",
     description:
-      "Website made using Next, Tailwind CSS, Web3.js, Nest.js, PostgreSQL, TypeORM, Solidity",
+      "Website made using Next, Tailwind CSS, Web3.js, NestJS, PostgreSQL, TypeORM, Solidity",
   },
   {
     id: 4,
@@ -69,7 +68,7 @@ const projects = [
     icon1: <SiChainlink size={42} color="white" />,
     image: ynftstake,
     title: "Alogrand NFT Staking Platform",
-    description: "created by Next.js, Scss, Express, and MongoDB",
+    description: "created by Next.js, Scss, NestJS, and MongoDB",
   },
   {
     id: 5,
